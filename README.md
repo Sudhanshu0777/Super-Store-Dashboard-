@@ -75,12 +75,6 @@ Used various Power BI visuals:
 
 ---
 
-## 📷 Screenshot
-
-![Dashboard Preview](./file-BrHXGwr8n1bUPnzmAkPS46.png)
-
----
-
 ## 🛠 Tools Used
 
 - **Power BI Desktop**
