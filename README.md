@@ -92,9 +92,3 @@ Used various Power BI visuals:
 
 ---
 
-## 🙌 Connect with Me
-
-If you liked this project or have suggestions, feel free to connect on [LinkedIn](#) or drop me a message. I'm always open to feedback and collaboration!
-
----
-
